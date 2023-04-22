@@ -1,0 +1,19 @@
+.FormWrapper {
+    width: 500px;
+    height: 350px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(150, 150, 150, 0.3);
+    padding: 50px;
+    color: white;
+}
+
+#tsparticles{
+    height: 100%;
+}
+
+label{
+    color: white
+}
